@@ -1,5 +1,4 @@
 
-```markdown
 # Movies JDBC Project
 
 This is a Java project that uses Spring Boot and JDBC to interact with a PostgreSQL database.
@@ -47,5 +46,3 @@ mvn spring-boot:run
 - **Bekzod-svg** - *Initial work* - [Bekzod-svg](https://github.com/Bekzod-svg)
 
 
-
-```
